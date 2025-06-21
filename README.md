@@ -2,10 +2,10 @@
 This project contains the analysis of a tree dataset collected on the University of Lincoln's Riseholme campus. The primary focus is to evaluate whether the Diameter at Breast Height (DBH) of a tree is influenced by the DBH of its nearest neighbouring tree within a 5-meter radius across four distinct woodland areas.
 
 
-🌳 Tree Neighbourhood Influence on DBH
+#🌳 Tree Neighbourhood Influence on DBH
 
 
-📌 Project Overview
+##📌 Project Overview
 
 Research Question:
 Does the DBH of a tree show a statistically significant relationship with the DBH of its nearest neighbouring tree?
@@ -18,7 +18,7 @@ Key Finding:
 The analysis found no statistically significant relationship between a tree's DBH and its neighbouring tree’s DBH in any of the four forest sites, with p-value = 0.8936, confirming the null hypothesis.
 
 
-📊 Methods Summary
+##📊 Methods Summary
 
 Study Sites:
 Young Wood
@@ -43,7 +43,7 @@ R Studio
 ggplot2
 
 
-📈 Results Overview
+##📈 Results Overview
 
 Regression Output Summary:
 Coefficient: 0.01462
